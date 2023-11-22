@@ -1,0 +1,14 @@
+
+body{
+
+    background-color:#8292A0;
+}
+
+img{
+
+    height: 10%;
+    width: 10%;
+    border-radius: 2%;
+    border-color:#E5E4E2;
+    border-style: solid;
+}
