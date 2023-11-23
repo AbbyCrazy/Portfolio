@@ -1,14 +1,21 @@
-
-body{
-
-    background-color:#8292A0;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  text-decoration: none;
+  list-style: none;
+  scroll-behavior: smooth;
 }
 
-img{
+:root {
+  --text-color: #fff;
+  --bg-color: #1b1f24;
+  --second-bg-color: #22282f;
+  --main-color: #13bbff;
+  --other-color: #c3cad5;
 
-    height: 10%;
-    width: 10%;
-    border-radius: 2%;
-    border-color:#E5E4E2;
-    border-style: solid;
+  --h1-font: 4.5rem;
+  --h2-font: 2.9rem;
+  --p-font: 1rem;
 }
